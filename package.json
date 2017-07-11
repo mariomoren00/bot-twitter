@@ -1,0 +1,22 @@
+{
+  "name": "bot-twitter",
+  "version": "1.0.0",
+  "description": "Using nodejs with api bot twitter.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariomoren00/bot-twitter.git"
+  },
+  "author": "mariomoreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariomoren00/bot-twitter/issues"
+  },
+  "homepage": "https://github.com/mariomoren00/bot-twitter#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
